@@ -1,5 +1,7 @@
 # CLA230 Ancient Greek Timeline
  
+This is an interactive and brief timeline of Ancient Greek History
+
 Download everything EXCEPT for:
 - .gitattributes
 - .gitignore
